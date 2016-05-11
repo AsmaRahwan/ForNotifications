@@ -1,0 +1,6 @@
+D:\ForNotification\ForNotification\obj\Debug\ForNotification.csprojResolveAssemblyReference.cache
+D:\ForNotification\ForNotification\bin\ForNotification.dll.config
+D:\ForNotification\ForNotification\bin\ForNotification.dll
+D:\ForNotification\ForNotification\bin\ForNotification.pdb
+D:\ForNotification\ForNotification\obj\Debug\ForNotification.dll
+D:\ForNotification\ForNotification\obj\Debug\ForNotification.pdb
